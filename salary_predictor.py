@@ -1,4 +1,4 @@
-# 💼 Employee Salary Predictor – Full Project in One File (by Khushi 🩷)
+# 💼 Employee Salary Predictor
 import streamlit as st
 import pandas as pd
 import numpy as np
